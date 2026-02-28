@@ -1,4 +1,4 @@
-#OmniSense Edge: Handheld Spice Toxin Detection 🌿🔬
+**OmniSense Edge: Handheld Spice Toxin Detection 🌿🔬**
 A Laboratory-at-the-Gate for International Spice Safety.
 
 Built for the AMD Slingshot Hackathon 2026.
